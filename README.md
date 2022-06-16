@@ -32,8 +32,8 @@ using namespace std::Thiago Santos;
 int main() {
     char info[128] = "Software Engineer and Machine Learning";
 
-    char *langs[4] = { "C", "C++","C#", "VB","PYTHON", "JavaScript", "TypeScript", };
-    char tech[5] = { ".NET", "Unity, "TensorFlow", "Django", "Laravel", "Node.js", "React", "Next.js", ""};
+    char *langs[7] = { "C", "C++","C#", "VB","PYTHON", "JavaScript", "TypeScript", };
+    char tech[8] = { ".NET", "Unity, "TensorFlow", "Django", "Laravel", "Node.js", "React", "Next.js", ""};
     
     // Server:   https://discord.gg/5dZPVytKnn;
     
