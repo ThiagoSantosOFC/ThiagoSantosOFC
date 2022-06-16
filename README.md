@@ -93,3 +93,6 @@ int main() {
 <h6 align="center">
     <a href="https://discord.gg/5dZPVytKnn"><img src="https://i.imgur.com/45TzgnD.png" width="50px" /></a>
  </h6>
+ <h6> Template rights reserved to OkamiMks https://github.com/OkamiMks </h6>
+
+    
