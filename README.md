@@ -47,7 +47,7 @@ int main() {
   <a href="https://github.com/ThiagoSantosOFC">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=OkamiMks&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+         src="https://github-readme-stats.vercel.app/api?username=ThiagoSantosOFC&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
   </a>
     
   <a href="https://github.com/ThiagoSantosOFC">
@@ -58,7 +58,7 @@ int main() {
   <a href="https://github.com/ThiagoSantosOFC">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoSantosOFCs&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoSantosOFC&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
   </a>
     <a href="https://github.com/ThiagoSantosOFC">
