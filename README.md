@@ -82,7 +82,7 @@ int main() {
 # **☕ Donates:**
 <h3 align="center">Contribute an amount to help fund new projects</h3>
 <div align="center">
-    <a href="https://www.paypal.com/paypal.me/thigazz">
+    <a href="https://www.paypal.me/thigazz">
         <img alt="Paypal donate"
              src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=for-the-badge&colorA=1e1e28&colorB=f2cecf">
     </a>
