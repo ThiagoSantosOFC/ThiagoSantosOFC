@@ -15,7 +15,7 @@
         <img alt="Twitter Follow" 
              src="https://img.shields.io/twitter/follow/ThiagoSantosOFC?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
-    <a href="https://discord.gg/5dZPVytKnn">
+    <a href="https://discord.gg/skwJuprZAP">
         <img alt="Discord server" 
              src="https://img.shields.io/discord/914797672907563041?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge">
     </a>
