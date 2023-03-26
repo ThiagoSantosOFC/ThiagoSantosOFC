@@ -1,6 +1,6 @@
-<a href="[https://discord.gg/5dZPVytKnn](https://discord.gg/skwJuprZAP)">
+<a href="https://discord.gg/skwJuprZAP">
     <h3 align="center">
-        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+        <img src="https://raw.githubusercontent.com/devscafecomunity/cafe/main/d7bcd594ca528d8a18074b02d43c0b28.png" width="280"><br>
         Software Developers Community
     </h3>
     <p align="center">We bring together people with skills in computer science<br>data engineering, hard sciences, software developers, game dev, and much more...</p>
