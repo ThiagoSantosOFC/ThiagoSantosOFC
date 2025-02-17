@@ -43,7 +43,7 @@ I merge the worlds of software engineering and design, with a passion for creati
 ### 🏆 **Featured Projects:**
 Check out my most recent projects, where I blend cutting-edge technology with clean design. 
 
-- **[Sintonize](https://github.com/ThiagoSantosOFC/sintonize)**: A web app that generates personalized Spotify playlists using AI based on user moods.
+- **[Sintonize(WIP)](https://github.com/ThiagoSantosOFC/sintonize)**: A web app that generates personalized Spotify playlists using AI based on user moods.
 - **[Dryad-lang](https://github.com/Dryad-lang)**: Contributed to the **lexer** and **tokenizer** planning of the Dryad programming language, enhancing the language's parsing and lexing processes.
 
 ---
