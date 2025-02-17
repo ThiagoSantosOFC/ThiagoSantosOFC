@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=header"/>
 
-# 👨‍💻 **Hi, I'm Thiago Santos!** 🌍
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a5acd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Santos;I'm+from+Brazil;I+work+as+Software+Engineer+and+Designer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### 🎨 **Engineer. Artist. Visionary.**
@@ -41,7 +39,7 @@ I merge the worlds of software engineering and design, with a passion for creati
 Check out my most recent projects, where I blend cutting-edge technology with clean design. 
 
 - **[Sintonize](https://github.com/ThiagoSantosOFC/sintonize)**: A web app that generates personalized Spotify playlists using AI based on user moods.
-- **[A Corte das Corujas](https://github.com/ThiagoSantosOFC/a-corte-das-corujas)**: A dystopian novel project combining philosophy, tech, and creative writing.
+- **[Dryad-lang](https://github.com/Dryad-lang)**: Contributed to the **lexer** and **tokenizer** planning of the Dryad programming language, enhancing the language's parsing and lexing processes.
 
 ---
 
