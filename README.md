@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a5acd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Santos;I'm+from+Brazil;I+work+as+Software+Engineer+and+Designer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### 🎨 **Engineer. Artist. Visionary.**
+### 🎨 **Engineer. Artist. Poet. Visionary.**
 I merge the worlds of software engineering and design, with a passion for creating visually stunning and functional user experiences. My focus is on blending technical expertise with creative artistry to shape innovative projects.
 
 <div align="center">
