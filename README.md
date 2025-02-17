@@ -61,7 +61,7 @@ If you like my work and want to support future projects, consider donating:
 ---
 <div align="center">
   <a href="https://discord.gg/KM3E3j2qzT">
-    <img src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner2"/>
+    <img src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner3"/>
   </a>
 </div>
 
