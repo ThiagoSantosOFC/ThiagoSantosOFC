@@ -60,4 +60,25 @@ If you like my work and want to support future projects, consider donating:
 
 ---
 
+<div align="center">
+  <br><p align="center"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThiagoSantosOFC}/count.svg" /></p>
+  <br>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ThiagoSantosOFC?tab=followers">
+    <img alt="GitHub followers"
+         src="https://img.shields.io/github/followers/ThiagoSantosOFC?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://discord.gg/KM3E3j2qzT">
+    <img align="right" src="https://discordapp.com/api/guilds/1043678401413795850/widget.png?style=banner2"/>
+  </a>
+</div>
+
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=footer"/>
